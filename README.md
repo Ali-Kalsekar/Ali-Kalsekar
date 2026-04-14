@@ -1,13 +1,17 @@
 👋 Hi, I'm Ali Kalsekar
 
 🎓 B.Tech in Robotics and Automation
+
 🛠️ Mechanical + Electronics + Software Developer
+
 🤖 Passionate about Robotics, Computer Vision, Embedded Systems, Game Development, and AI
+
 🚀 Builder of real-world engineering systems combining hardware, software, and mechanical design
 
 I specialize in developing end-to-end engineering solutions — from mechanical design and simulations to embedded electronics and intelligent software systems.
 
 🚀 About Me
+
 Robotics and Automation student with strong interdisciplinary engineering skills
 Experienced in Computer Vision, Embedded Systems, and Robotics
 Skilled in mechanical design, control systems, and simulation
@@ -18,6 +22,7 @@ Freelancer working on AI and automation projects
 🧠 Core Engineering Domains
 
 🤖 Robotics & Automation
+
 Robot kinematics and dynamics
 Control systems and PID control
 Sensor integration and feedback systems
@@ -25,6 +30,7 @@ Autonomous navigation and mapping
 Embedded robotics development
 
 👁️ Computer Vision & AI
+
 Image processing using OpenCV
 Object detection and tracking
 Gesture recognition systems
@@ -32,6 +38,7 @@ Real-time vision applications
 AI-powered automation tools
 
 🎮 Game Development
+
 2D and simulation-based games
 Physics-based gameplay systems
 Game logic and mechanics design
@@ -45,6 +52,7 @@ Mechanical system simulation
 Engineering prototyping
 
 💻 Software Skills
+
 Programming Languages
 Python
 C++
@@ -73,6 +81,7 @@ Robotics simulation
 Control system modeling
 
 🔌 Hardware & Embedded Systems Skills
+
 Microcontrollers & Boards
 Arduino
 ESP32
@@ -100,6 +109,7 @@ Motor drivers
 Power systems
 
 🧰 Mechanical Skills
+
 3D modeling and CAD design
 3D printing and rapid prototyping
 Mechanical assembly and fabrication
@@ -110,18 +120,21 @@ Robotics hardware design
 🛠️ Key Projects
 
 🚁 Autonomous Drone System
+
 Designed and built a drone with embedded control system
 Implemented motor control and sensor feedback
 Developed flight stabilization logic
 Integrated microcontroller-based control
 
 🤖 Robotic Arm System
+
 Designed mechanical structure and motion system
 Implemented motor control and kinematics
 Integrated sensors for feedback
 Developed control algorithms
 
 📡 IoT Crane Monitoring System
+
 Built real-time monitoring system using ESP32
 Implemented wireless communication
 Developed alert and dashboard system
@@ -137,6 +150,7 @@ Face detection system
 Image processing tools
 
 🎮 Game Development Projects
+
 Top-Down Survival Game
 Real-time combat mechanics
 Player movement system
@@ -154,6 +168,7 @@ Real-time rendering system
 
 🧪 Engineering Areas of Interest
 Robotics
+
 Autonomous systems
 Computer vision
 Embedded systems
@@ -165,6 +180,7 @@ Mechatronics
 Mechanical system design
 
 📈 Currently Learning
+
 Advanced Robot Dynamics
 Impedance Control
 ROS2 and SLAM
